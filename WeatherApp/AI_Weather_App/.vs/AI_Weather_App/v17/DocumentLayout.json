@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihpc\\OneDrive\\Desktop\\WeatherApp\\Python-Applications\\WeatherApp\\AI_Weather_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD833CE-C42C-4516-B394-0F9F9D2758AE}|AI_Weather_App.pyproj|C:\\Users\\ihpc\\OneDrive\\Desktop\\WeatherApp\\Python-Applications\\WeatherApp\\AI_Weather_App\\AI_Weather_App.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAD833CE-C42C-4516-B394-0F9F9D2758AE}|AI_Weather_App.pyproj|solutionrelative:AI_Weather_App.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI_Weather_App.py",
+              "DocumentMoniker": "C:\\Users\\ihpc\\OneDrive\\Desktop\\WeatherApp\\Python-Applications\\WeatherApp\\AI_Weather_App\\AI_Weather_App.py",
+              "RelativeDocumentMoniker": "AI_Weather_App.py",
+              "ToolTip": "C:\\Users\\ihpc\\OneDrive\\Desktop\\WeatherApp\\Python-Applications\\WeatherApp\\AI_Weather_App\\AI_Weather_App.py",
+              "RelativeToolTip": "AI_Weather_App.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-12T08:00:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
